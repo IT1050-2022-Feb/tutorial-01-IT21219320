@@ -29,7 +29,7 @@ int minimum(int no1, int no2) {
     return no1;
   } else {
     return no2;
-  }
+  } 
 }
 
 int maximum(int no1, int no2) {
