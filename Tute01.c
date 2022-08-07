@@ -17,6 +17,6 @@ int main() {
 
   printf("Average mark: %.2f", avg);
 
-  return 0;
+  return 0; 
 }
 
