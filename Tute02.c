@@ -18,7 +18,11 @@ Amount = 30 x 50 + (50-30) x 40 = 2300*/
 
 #include <stdio.h>
 
-int main() {
-   
-  return 0;
-} 
+int main(void) {
+  float cm;
+  
+  printf("Enter length in cm: ");
+  scanf("%f", &cm);
+
+  printf("\n%.2fcm = %.2fin",cm, cm/2.54);
+}
