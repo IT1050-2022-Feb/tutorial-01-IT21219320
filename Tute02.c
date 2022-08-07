@@ -33,5 +33,5 @@ int main(void) {
 
   printf("Amount to be paid: %.2f", rate);
   
-  return 0; 
+  return 0;
 }
